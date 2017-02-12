@@ -4,7 +4,7 @@ class Rome < Formula
   url "https://github.com/blender/Rome/releases/download/v0.9.0.20/rome.zip"
   sha256 "922ddb4c3fcacd8083e19b3e00bb4401db25ec33dd5b37c3cd62cd726a53395f"
 
-  version "0.8.0.17"
+  version "0.9.0.20"
 
   bottle :unneeded
 
