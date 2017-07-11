@@ -1,10 +1,10 @@
 class Rome < Formula
-  desc "A shared cache tool for carthage on S3"
+  desc "A shared cache tool for Carthage on S3"
   homepage "https://github.com/blender/Rome"
-  url "https://github.com/blender/Rome/releases/download/v0.11.0.27/rome.zip"
-  sha256 "0c5b9558df03268bfd82fc3acf7f4fe0097ae218ba40910d718340ef9608cb95"
+  url "https://github.com/blender/Rome/releases/download/v0.12.0.31/rome.zip"
+  sha256 "3ad1d0ff2eaee5614c48db5f26c4c5383790ba9d8cda44d850f8893e41eb1c61"
 
-  version "0.11.0.27"
+  version "0.12.0.31"
 
   bottle :unneeded
 
