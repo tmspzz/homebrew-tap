@@ -3,8 +3,6 @@ class Sourcery < Formula
   homepage "https://github.com/krzysztofzablocki/Sourcery"
   url "https://github.com/krzysztofzablocki/Sourcery/releases/download/0.13.1/Sourcery-0.13.1.zip"
   sha256 "86f85f4fa3de3cca5c3ca5886f8d0234d0509ebfa8dd4ec6a3d9d84f0839d2cc"
-  
-  bottle :unneeded
 
   def install
     bin.install "bin/sourcery"
